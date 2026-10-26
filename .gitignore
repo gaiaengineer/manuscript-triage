@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Outputs of a run (never commit manuscripts or reports: they are confidential)
+report.md
+data.json
+samples/
+chapters/
+*.docx
+*.epub
+*.pdf
+*.rtf
+/*.txt
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
